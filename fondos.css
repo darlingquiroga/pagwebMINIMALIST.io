@@ -1,0 +1,22 @@
+      .container {
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+      }
+      .header {
+        background-color: RGB(224, 210, 197);
+        padding: 20px;
+        text-align: center;
+      }
+      .main-content {
+        background-color: RGB(243, 237, 221);
+        padding: 100px;
+        text-align: center;
+      }
+      .footer {
+        background-color: RGB(156, 126, 129);
+        padding: 20px;
+        text-align: center;
+
+      }
+    

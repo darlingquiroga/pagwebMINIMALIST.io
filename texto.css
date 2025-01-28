@@ -1,0 +1,45 @@
+h1{
+	color: black;
+ 	font-size: 40px;
+ 	font-weight: style ;
+ 	font-family: Garamond, serif;
+ 	text-align: center;
+	}
+h2{
+	color: black;
+ 	font-size: 30px;
+ 	font-weight: style;
+ 	font-family:Garamond, serif;
+ 	text-align: center;
+	}
+h3{
+	color: black;
+ 	font-size: 20px;
+ 	font-weight: style;
+ 	font-family: Garamond, serif;
+ 	text-align: center;
+	}
+h4{
+	color: black;
+	font-size: 10px;
+	font-family:Garamond, serif;
+	text-align: justify;
+	/*background-color: rgba(224, 210, 197);
+	border: 2px solid rgba(41, 20, 1);*/
+
+	}
+p{
+	color: black;
+	font-stretch: semi-condensed ;
+	font-family: Garamond, serif;
+	text-align: center;
+
+
+	}
+.borde{
+	border-style:double ;
+	border-color:black ;
+	border-width:5;
+	
+
+	}
